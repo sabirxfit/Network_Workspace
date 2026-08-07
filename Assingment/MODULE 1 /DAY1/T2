@@ -1,0 +1,38 @@
+HDD vs SSD - side by side 
+===========================================================================
+
+                HDD (old school)        |  SSD (the fast one)
+---------------------------------------------------------------------------
+SPEED           slow - has a spinning   |  fast - no moving parts, just
+                 disk + a little arm    |  memory chips, 
+                 that moves to read/    |  almost instantly.
+                 write data             |
+---------------------------------------------------------------------------
+DURABILITY       not tough enough       |  way more solid - no moving
+                 and the spinning disk  |  parts so it can take bumps,
+                 can get damaged, real  |  drops, getting shaken around
+                 risk of losing data    |  in a bag etc
+---------------------------------------------------------------------------
+NOISE           makes noise that        |  silent, no clicking/whirring
+                 clicking/whirring      |  at all
+                 sound old PCs make     |
+---------------------------------------------------------------------------
+POWER USE       uses more battery/      |  uses less power, more
+                 power                  |  efficient
+---------------------------------------------------------------------------
+PRICE           cheaper for lots of     |  pricier per GB, but prices
+                 storage (good for      |  have dropped a lot recently
+                 2TB+ needs)            |
+---------------------------------------------------------------------------
+USAGE           best for storing data   |  best for gaming and high performace          
+                 servers/data centers   |  faster load times matter
+                 for cheap bulk storage |  for gaming), thin/light
+                                        |  ultrabooks
+===========================================================================
+
+
+- need speed + something durable for everyday use -> SSD
+- need cheap + massive storage,-> HDD
+
+(most new laptops just come with SSD now tbh, HDDs are mostly for
+backup/extra storage at this point)
