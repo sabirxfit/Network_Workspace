@@ -1,0 +1,14 @@
+CPU
+
+The CPU (Central Processing Unit) handles the main calculations and instructions needed to run the game. 
+It manages tasks such as game logic, player movements, physics, and communication between different hardware components.
+
+RAM
+
+RAM (Random Access Memory) temporarily stores the game’s data and instructions that the CPU needs to access quickly.
+More RAM helps the game run smoothly and reduces slowdowns when other programs are running in the background.
+
+GPU
+
+The GPU (Graphics Processing Unit) is responsible for rendering the game’s graphics, including characters, environments, textures, and visual effects.
+A stronger GPU can provide higher graphics quality and smoother gameplay with better FPS (frames per second).
