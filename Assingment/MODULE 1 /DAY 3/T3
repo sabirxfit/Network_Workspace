@@ -1,0 +1,17 @@
+HDD vs SSD vs NVMe
+==================
+
+Feature        HDD                  SSD                  NVMe SSD
+-----------------------------------------------------------------------
+Speed          Slow                 Fast                 Fastest
+
+Technology     Magnetic disk        Flash memory         Flash + PCIe
+
+Moving Parts   Yes                  No                   No
+
+Best For       Large file storage   Daily applications   Heavy applications
+
+Daily Use      File storage         Chrome / Edge        Adobe Premiere Pro
+
+Cost           Cheap                Medium               Expensive
+
