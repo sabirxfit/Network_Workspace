@@ -1,0 +1,56 @@
+=======================================
+   MAIN COMPONENTS INSIDE A DESKTOP PC
+========================================
+
+1. Motherboard
+   The main circuit board that connects all PC components.
+   It allows the CPU, RAM, storage and other devices to communicate.
+
+2. CPU (Processor)
+   The main processing unit of the computer.
+   It handles instructions and performs calculations.
+
+3. RAM (Memory)
+   Temporarily stores data and programs currently in use.
+   It helps the computer handle multiple tasks smoothly.
+
+4. Motherboard Chipset
+   Manages communication between the CPU, storage, USB devices and hardware.
+   It controls many features and connections on the motherboard.
+
+5. Power Supply Unit (PSU)
+   Supplies electrical power to all PC components.
+   It converts AC power into the required DC power.
+
+6. GPU (Graphics Card)
+   Processes images, videos and graphics for the display.
+   It is useful for gaming, video editing and graphics-heavy tasks.
+
+7. Storage Drive (HDD/SSD)
+   Stores the operating system, applications and personal files.
+   HDDs use magnetic disks, while SSDs use flash memory.
+
+8. SATA Cable
+   Connects SATA storage drives to the motherboard.
+   It transfers data between the storage drive and motherboard.
+
+9. CPU Cooler
+   Removes heat produced by the processor.
+   It usually consists of a heatsink and a fan.
+
+10. Case Fans
+    Move air through the cabinet to control temperature.
+    They help keep the internal components cool.
+
+11. CMOS Battery
+    Helps maintain the system clock and BIOS/UEFI settings.
+    It provides power when the PC is turned off.
+
+12. Expansion Cards
+    Installed in PCIe slots to add extra features.
+    Examples include Wi-Fi, sound and capture cards.
+
+13. Cables and Connectors
+    Connect the power supply, storage drives, fans and other components.
+    They provide power and allow components to communicate.
+
