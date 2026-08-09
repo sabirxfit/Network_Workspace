@@ -1,0 +1,10 @@
+When you open Spotify, the operating system first sends instructions to the CPU to launch the application.  
+
+Then the CPU processes those instructions by executing Spotify’s program code.  
+
+At the same time, the chipset on the motherboard helps everything communicate — 
+it creates pathways so data can move between the CPU, RAM, storage, USB ports, audio devices, and other hardware.  
+
+When the CPU finishes handling the app’s tasks and the audio instructions, the necessary data travels through the system. Then the audio hardware converts the digital sound into actual music that comes out of your speakers or headphones.  
+
+In simple words: the CPU does the actual processing, while the chipset helps all the different parts of the computer talk to each other and work together.
