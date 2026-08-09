@@ -1,1 +1,23 @@
+========================================
+   CPU SOCKET TYPES AND COMPATIBLE CPUs
+========================================
 
+[1] LGA1700
+----------------------------------------
+Compatible CPU : Intel Core i5-13600K
+Manufacturer    : Intel
+
+[2] AM5
+----------------------------------------
+Compatible CPU : AMD Ryzen 5 7600X
+Manufacturer    : AMD
+
+[3] LGA2066
+----------------------------------------
+Compatible CPU : Intel Core i9-10980XE
+Manufacturer    : Intel
+
+========================================
+Note: CPU socket compatibility also depends on
+the motherboard and the chipset it supports.
+========================================
