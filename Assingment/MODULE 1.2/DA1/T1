@@ -1,0 +1,9 @@
+TYPE             | USE CASE
+-----------------|--------------------------------
+Inkjet Printer   | Printing college assignments
+Laser Printer    | Printing office documents
+3D Printer       | Creating 3D models
+Flatbed Scanner  | Scanning certificates and photos
+Sheetfed Scanner | Scanning multiple documents
+USB Webcam       | Attending online classes
+Built-in Webcam  | Making video calls
