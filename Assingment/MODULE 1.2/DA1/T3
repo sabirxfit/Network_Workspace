@@ -1,0 +1,39 @@
+
+====================================================
+ PERIPHERAL CONNECTION INTERFACES - DATA TRANSFER
+====================================================
+
+1. USB (Universal Serial Bus)
+----------------------------------------------------
+Speed         : Highest - USB 3.x can reach several Gbps
+Convenience   : Plug-and-play, but requires cable + free port
+Compatibility : Nearly universal across computers/laptops
+Advantage     : Fast, stable, low-latency data transfer
+Disadvantage  : Limited by cable length and port availability
+
+2. WI-FI
+----------------------------------------------------
+Speed         : High but variable - shared with network traffic
+Convenience   : No cables, works anywhere on the network
+Compatibility : Broad, but depends on matching network protocols
+Advantage     : Long range, supports multiple users/devices
+Disadvantage  : Interference, congestion, complex setup
+
+3. BLUETOOTH
+----------------------------------------------------
+Speed         : Lowest - fine for small files, not large scans/video
+Convenience   : Easiest quick pairing, no network needed
+Compatibility : Good on modern devices, version mismatch issues
+Advantage     : Low power use, simple cable-free pairing
+Disadvantage  : Short range (under 10m), slow data transfer
+
+====================================================
+ QUICK COMPARISON TABLE
+====================================================
+
+INTERFACE  | SPEED        | CONVENIENCE          | COMPATIBILITY
+-----------+--------------+----------------------+-------------------
+USB        | Highest      | Easy setup, tethered | Nearly universal
+Wi-Fi      | High/variable| Best for mobility     | Broad, config-needed
+Bluetooth  | Lowest       | Best for quick pair   | Good, version-sensitive
+
