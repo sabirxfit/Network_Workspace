@@ -1,0 +1,11 @@
+USB Webcam Connection and Testing
+
+1. Connect the USB webcam to an available USB port on the computer.
+2. Wait a few seconds for Windows to detect the webcam.
+3. Windows will usually install the required driver automatically.
+4. If the driver is not installed, open **Device Manager** and check **Cameras** or **Imaging devices**. Update the webcam driver if necessary.
+5. Open the **Camera** app from the Windows Start menu.
+6. Allow camera permission if Windows asks for it.
+7. Check that the webcam video appears correctly in the Camera app.
+8. Click the **Take photo** button to capture a test photo.
+9. Open the saved photo to verify that the webcam is working properly.
