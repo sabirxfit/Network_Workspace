@@ -1,0 +1,17 @@
+ Local Printer Setup
+
+1. Connect the printer to the computer using a USB cable, or connect the printer and computer to the same Wi-Fi/network.
+
+2. Turn on the printer and make sure it is ready.
+
+3. Open **Settings > Bluetooth & devices > Printers & scanners** in Windows.
+
+4. Click **Add device** and select the printer when it appears.
+
+5. If Windows does not install the printer automatically, download and install the **correct driver** for the printer model from the manufacturer's website.
+
+6. After installation, open **Printers & scanners**, select the printer, and choose **Printer properties**.
+
+7. Click **Print Test Page**.
+
+8. Check that the printer produces the test page correctly. If it prints successfully, the printer installation is complete.
