@@ -1,0 +1,18 @@
+
+1. Open Settings by pressing `Win + I`.
+2. Go to System > Troubleshoot > Other troubleshooters**.
+3. Find Printer and click Run.
+4. Select the affected printer if Windows asks which printer to troubleshoot.
+5. Let Windows check for common problems such as:
+
+   * Printer connection problems
+   * Incorrect printer settings
+   * Driver-related issues
+   * Print spooler problems
+   * The printer being set to offline
+6. Follow any recommended fixes and try printing a test page afterward.
+
+### Information provided by the Troubleshooter
+
+During the process, Windows shows what it is **checking**, identifies any **problems found**, and may indicate whether an issue was **fixed automatically** or requires manual action.
+It can also provide recommendations, such as changing printer settings, restarting a service, or updating/reinstalling a driver.
