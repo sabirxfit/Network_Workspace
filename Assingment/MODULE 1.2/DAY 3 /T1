@@ -1,0 +1,21 @@
+USB KEYBOARD AND MOUSE - COMMON ISSUES
+
++----+-------------------------------+--------------------------------------+
+| NO | COMMON ISSUE                  | POSSIBLE SOLUTION                    |
++----+-------------------------------+--------------------------------------+
+| 1  | Keyboard types wrong          | Check keyboard language/layout       |
+|    | characters                    | settings in Windows.                 |
++----+-------------------------------+--------------------------------------+
+| 2  | Mouse buttons do not work     | Check mouse settings and try         |
+|    | properly                      | another USB port.                    |
++----+-------------------------------+--------------------------------------+
+| 3  | USB device disconnects        | Disable USB power-saving for the     |
+|    | randomly                      | affected USB port.                   |
++----+-------------------------------+--------------------------------------+
+| 4  | Keyboard or mouse has         | Close unnecessary programs and      |
+|    | input delay                   | restart the laptop.                 |
++----+-------------------------------+--------------------------------------+
+| 5  | Device works on one laptop    | Install required drivers and check  |
+|    | but not another               | Windows updates.                    |
++----+-------------------------------+--------------------------------------+
+ 
