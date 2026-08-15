@@ -1,0 +1,139 @@
+WINDOWS 10 INSTALLATION GUIDE
+==============================
+
+1. PREPARE BEFORE INSTALLATION
+------------------------------
+[ ] Back up important files to an external drive or cloud storage.
+[ ] Keep the laptop connected to AC power.
+[ ] Prepare a Windows 10 installation USB (8 GB or larger).
+[ ] Keep your Windows product key available if required.
+[ ] Check laptop compatibility and download important drivers.
+
+2. BOOT FROM WINDOWS 10 USB
+---------------------------
+[ ] Insert the Windows 10 USB drive.
+[ ] Restart the laptop.
+[ ] Open the Boot Menu or BIOS/UEFI.
+[ ] Common keys: F12, F9, ESC, DEL.
+[ ] Select the USB drive as the boot device.
+[ ] Boot from the USB when prompted.
+
+3. START WINDOWS SETUP
+----------------------
+[ ] Select language, time/currency and keyboard layout.
+[ ] Click NEXT.
+[ ] Select INSTALL NOW.
+[ ] Enter the product key.
+[ ] Or select I DON'T HAVE A PRODUCT KEY.
+[ ] Select the correct Windows 10 edition.
+[ ] Accept the license terms.
+[ ] Select CUSTOM: INSTALL WINDOWS ONLY (ADVANCED).
+
+4. PARTITION THE DRIVE
+----------------------
+[ ] Identify the correct internal drive.
+[ ] Make sure important data is backed up.
+[ ] Delete old partitions only if a clean installation is required.
+[ ] Select the UNALLOCATED SPACE.
+[ ] Click NEW if you want to create partitions manually.
+[ ] Leave enough space for Windows, apps and updates.
+[ ] For a simple setup, select unallocated space and click NEXT.
+[ ] Windows will create the required system partitions automatically.
+[ ] Do not delete recovery/manufacturer partitions unless necessary.
+
+5. INSTALL WINDOWS
+------------------
+[ ] Select the partition for Windows.
+[ ] Click NEXT.
+[ ] Wait while Windows copies files and installs.
+[ ] The laptop will restart several times.
+[ ] Remove the USB if the laptop starts the installer again.
+[ ] Complete the initial Windows setup.
+
+6. PRIVACY SETTINGS
+-------------------
+[ ] Review LOCATION access.
+[ ] Disable location if it is not needed.
+[ ] Review DIAGNOSTIC DATA settings.
+[ ] Choose the more privacy-conscious option available.
+[ ] Review ADVERTISING ID settings.
+[ ] Review speech, typing and personalization settings.
+[ ] Disable unnecessary app permissions.
+
+AFTER REACHING THE DESKTOP:
+[ ] Open SETTINGS > PRIVACY.
+[ ] Review Camera permissions.
+[ ] Review Microphone permissions.
+[ ] Review Location permissions.
+[ ] Review Contacts and other personal-information permissions.
+[ ] Allow access only to apps that need it.
+
+7. INSTALL UPDATES AND DRIVERS
+------------------------------
+[ ] Open SETTINGS > UPDATE & SECURITY > WINDOWS UPDATE.
+[ ] Click CHECK FOR UPDATES.
+[ ] Install available Windows updates.
+[ ] Restart when required.
+[ ] Check for updates again.
+[ ] Install laptop-specific drivers from the manufacturer's official website.
+[ ] Open DEVICE MANAGER.
+[ ] Check for warning icons.
+[ ] Install missing drivers for Wi-Fi, graphics, audio, chipset and touchpad.
+
+8. POST-INSTALLATION CHECKS
+---------------------------
+[ ] Test Wi-Fi.
+[ ] Test Bluetooth.
+[ ] Test speakers.
+[ ] Test microphone.
+[ ] Test webcam.
+[ ] Test keyboard.
+[ ] Test touchpad.
+[ ] Check display resolution.
+[ ] Check Windows activation.
+[ ] Install required applications.
+[ ] Confirm Windows Security is active.
+[ ] Create a restore point.
+[ ] Back up important files.
+
+PARTITIONING TIPS
+-----------------
+[ ] Keep personal files separate from Windows if useful.
+[ ] Do not make the Windows partition too small.
+[ ] Leave free space for updates and applications.
+[ ] If unsure, let Windows create its required partitions automatically.
+[ ] Never delete a partition without knowing what it contains.
+[ ] Always back up important data before changing partitions.
+
+STEPS THAT MAY BE UNCLEAR OR MISSING
+------------------------------------
+1. BOOT MENU KEY
+   The exact key depends on the laptop manufacturer and model.
+
+2. UEFI OR LEGACY MODE
+   Older laptops may use different firmware settings.
+
+3. STORAGE DRIVER
+   Some laptops may require a storage-controller driver before
+   Windows Setup can detect the SSD.
+
+4. WINDOWS ACTIVATION
+   Activation depends on whether the laptop has a digital license
+   or a product key.
+
+5. RECOVERY PARTITION
+   Deleting it may remove the manufacturer's recovery option.
+
+6. WINDOWS 10 SUPPORT
+   Windows 10 reached standard end of support on October 14, 2025.
+   In 2026, use Windows 10 only when there is a specific compatibility
+   or legacy-software reason. A supported Windows version is preferable.
+
+FINAL RESULT
+------------
+[ ] Windows starts normally.
+[ ] Correct drivers are installed.
+[ ] Windows is activated.
+[ ] Privacy settings have been reviewed.
+[ ] Available updates are installed.
+[ ] Hardware has been tested.
