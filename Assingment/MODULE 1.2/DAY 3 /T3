@@ -1,0 +1,13 @@
+Shorter checklist – external webcam not detected in Zoom (Windows 10)
+
+1. Physical check – Unplug/replug the webcam, try a different USB port, and confirm any power switch or lens cover is open.
+
+2. Device Manager – Open Device Manager → Cameras/Imaging devices. Update driver or uninstall + replug the webcam if it shows a warning or is missing.
+
+3. Windows privacy – Settings → Privacy → Camera → turn on “Allow apps to access your camera” (and desktop apps).
+
+4. Zoom permissions – In Zoom: Settings → Video → select the correct camera. Also confirm Zoom has camera access in Windows Privacy settings.
+
+5. Restart everything – Fully quit Zoom (including system tray), unplug the webcam, reboot the PC, then reconnect and relaunch Zoom.
+
+6. Drivers / reinstall – Update the webcam driver (Device Manager or manufacturer site) and/or reinstall Zoom.
