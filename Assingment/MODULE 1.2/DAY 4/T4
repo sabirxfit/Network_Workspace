@@ -1,0 +1,40 @@
+
+1. Close other apps using the webcam
+
+   * Close the Camera app, Microsoft Teams, Google Meet, Discord, or any other app that may be accessing the webcam.
+   * Restart Zoom and test the camera again.
+
+2. Check Zoom camera selection
+
+   * Open **Zoom**.
+   * Go to **Settings > Video**.
+   * Under **Camera**, select the correct webcam.
+   * Check whether the preview appears.
+
+3. Check Windows camera permissions
+
+   * Open **Settings > Privacy & security > Camera**.
+   * Turn on **Camera access**.
+   * Turn on **Let apps access your camera**.
+   * Make sure **Let desktop apps access your camera** is enabled, since Zoom is a desktop application.
+
+4. Check Device Manager
+
+   * Right-click **Start > Device Manager**.
+   * Expand **Cameras** or **Imaging devices**.
+   * Confirm that the webcam appears without a warning icon.
+   * If necessary, right-click it and choose **Enable device**.
+
+5. Restart Zoom
+
+   * Completely exit Zoom, including from the system tray.
+   * Reopen Zoom and test **Settings > Video** again.
+
+6. If still not working
+
+   * Restart Windows.
+   * Reconnect the USB webcam if it is external.
+   * Try another USB port.
+   * Update or reinstall the webcam driver through **Device Manager**.
+
+**Likely cause:** Since the webcam works in the Windows Camera app, the hardware is probably working. The most likely problems are **Zoom using the wrong camera, another application occupying the webcam, or Windows/Zoom camera permissions being disabled**.
