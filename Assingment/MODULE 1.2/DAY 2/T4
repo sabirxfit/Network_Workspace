@@ -1,0 +1,45 @@
+=================================
+
+1. TURN OFF POWER
+   - Switch OFF the SMPS.
+   - Unplug the power cord.
+   - Make sure all PC components are installed properly.
+
+2. CONNECT MOTHERBOARD
+   - Cable: 24-pin ATX
+   - Connect SMPS 24-pin ATX cable to motherboard 24-pin connector.
+   - Cable: 4+4-pin EPS/CPU
+   - Connect it to the motherboard 8-pin CPU power connector.
+
+3. CONNECT GRAPHICS CARD
+   - Cable: 6+2-pin PCIe
+   - Connect the PCIe cable to the GPU power connector.
+   - Some high-end GPUs use a 12VHPWR or 12V-2x6 connector.
+
+4. CONNECT STORAGE DEVICES
+   - Cable: SATA Power
+   - Connect SATA power cable from SMPS to SATA SSD/HDD.
+   - SATA data cable connects the drive to the motherboard.
+   - SATA data cable does NOT come from the SMPS.
+
+5. CHECK CONNECTIONS
+   - Make sure all connectors are fully inserted.
+   - Do not force any connector.
+   - Keep cables away from cooling fans.
+
+6. POWER ON
+   - Connect the SMPS power cord.
+   - Switch ON the SMPS.
+   - Press the PC power button.
+
+
+
+
++----------------------+------------------+--------------------------+
+| COMPONENT            | SMPS CABLE       | CONNECTOR                |
++----------------------+------------------+--------------------------+
+| Motherboard          | 24-pin ATX       | 24-pin ATX               |
+| CPU Power            | 4+4-pin EPS      | 8-pin CPU/EPS            |
+| Graphics Card        | 6+2-pin PCIe     | 6/8-pin PCIe             |
+| SATA SSD/HDD         | SATA Power       | SATA Power Connector     |
+
