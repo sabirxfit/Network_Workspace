@@ -1,0 +1,124 @@
+GAMING CAFE NETWORK - ROUTER AND SWITCH
+==========================================
+
+
+STEP 1 - CONNECT THE ISP LINE
+-----------------------------
+Connect the ISP (Internet Service Provider) line to the ROUTER.
+
+Reason:
+The router connects the cafe local network to the Internet.
+It can also provide IP addresses and manage network traffic.
+
+ISP
+ |
+ v
+ROUTER
+
+
+STEP 2 - CONNECT ROUTER TO SWITCH
+---------------------------------
+Connect one LAN/Ethernet port of the router to a port on the
+network switch using an Ethernet cable.
+
+Reason:
+The switch provides multiple ports so that many devices can
+connect to the same local network.
+
+ISP -> ROUTER -> SWITCH
+
+
+STEP 3 - CONNECT GAMING PC 1
+----------------------------
+Connect PC1 to an available switch port using an Ethernet cable.
+
+
+STEP 4 - CONNECT GAMING PC 2
+----------------------------
+Connect PC2 to another available switch port.
+
+
+STEP 5 - CONNECT GAMING PC 3
+----------------------------
+Connect PC3 to another available switch port.
+
+
+STEP 6 - CONNECT GAMING PC 4
+----------------------------
+Connect PC4 to another available switch port.
+
+
+STEP 7 - CONNECT GAMING PC 5
+----------------------------
+Connect PC5 to another available switch port.
+
+
+STEP 8 - CONNECT GAMING PC 6
+----------------------------
+Connect PC6 to another available switch port.
+
+
+STEP 9 - CONNECT GAMING PC 7
+----------------------------
+Connect PC7 to another available switch port.
+
+
+STEP 10 - CONNECT GAMING PC 8
+-----------------------------
+Connect PC8 to another available switch port.
+
+
+FINAL NETWORK TOPOLOGY:
+-----------------------
+
+                    INTERNET / ISP
+                          |
+                          v
+                       ROUTER
+                          |
+                          v
+                        SWITCH
+              ____________|____________
+             |    |    |    |    |    |
+            PC1  PC2  PC3  PC4  PC5  PC6
+             |    |    |
+            PC7  PC8   |
+             |    |    |
+             +----+----+
+
+
+WHY USE A ROUTER FIRST?
+-----------------------
+
+1. The router connects the local cafe network to the Internet.
+2. It handles communication between the local network and
+   outside networks.
+3. It can provide DHCP to automatically assign IP addresses.
+4. It can provide basic network management and security.
+
+
+WHY USE A SWITCH FOR THE 8 PCS?
+-------------------------------
+
+1. A switch provides multiple Ethernet ports for the gaming PCs.
+2. It allows all 8 PCs to communicate on the local network.
+3. Wired Ethernet provides a stable connection for gaming.
+4. The switch allows multiple PCs to use the network at the
+   same time.
+
+
+CONCLUSION:
+-----------
+
+The basic network arrangement is:
+
+ISP -> ROUTER -> SWITCH -> 8 GAMING PCs
+
+The router is connected to the ISP because it connects the
+Internet with the cafe local network.
+
+The switch is connected to the router because it provides
+multiple Ethernet ports for all 8 gaming PCs.
+
+This setup is suitable for IPL streaming, multiplayer gaming,
+and normal Internet use in a small gaming cafe.
