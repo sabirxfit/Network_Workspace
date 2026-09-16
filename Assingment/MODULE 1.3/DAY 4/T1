@@ -1,0 +1,17 @@
+
++--------------------------------+--------------------------------+
+|        ETHERNET CABLE          |        FIBER OPTIC CABLE        |
++--------------------------------+--------------------------------+
+| 1. Uses copper wires.          | 1. Uses glass/plastic fibers.  |
+|                                |                                |
+| 2. Shorter distance, commonly  | 2. Supports much longer        |
+|    up to about 100 meters.     |    distances and high speeds.  |
+|                                |                                |
+| 3. Can be affected by          | 3. Resistant to electromagnetic|
+|    electromagnetic interference|    interference.               |
+|                                |                                |
+| EXAMPLE:                       | EXAMPLE:                       |
+| PC connected to a home/college | College campus backbone or     |
+| router or network switch.      | data center network.           |
++--------------------------------+--------------------------------+
+
