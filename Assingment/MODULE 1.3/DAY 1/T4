@@ -1,0 +1,18 @@
+ROUTER VS SWITCH COMPARISON
+===========================
+
++-------------------+-----------------------------+-----------------------------+
+| FEATURE           | ROUTER                      | SWITCH                      |
++-------------------+-----------------------------+-----------------------------+
+| Main Use          | Connects different networks | Connects devices in a LAN   |
+| Typical Location  | Home, office, ISP edge      | Office, lab, server room    |
+| Data Handling     | Uses IP addresses           | Uses MAC addresses          |
+| Network Layer     | Layer 3                     | Layer 2                     |
+| Internet          | Connects LAN to internet    | Connects devices in LAN     |
+| Example           | Home internet router        | College network switch      |
+| Ports             | WAN and LAN ports           | Multiple Ethernet ports     |
++-------------------+-----------------------------+-----------------------------+
+
+KEY DIFFERENCE:
+Router = Connects different networks
+Switch = Connects devices within the same network
