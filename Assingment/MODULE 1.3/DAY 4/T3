@@ -1,0 +1,81 @@
+Here’s a beginner-friendly guide based on a YouTube demonstration of CAT6 RJ45 crimping. The video shows stripping, arranging the wires in T568B order, inserting them into the RJ45 plug, crimping, and testing. ([YouTube][1])
+
+[How to Make a Cat 6 Ethernet Cable | RJ45 T568B Wiring & Crimping Tutorial](https://www.youtube.com/watch?v=ujv7trbDJxU&utm_source=chatgpt.com)
+
+ Step-by-step: Attach an RJ45 connector to CAT6 cable
+
+1. Prepare the tools
+
+   * CAT6 Ethernet cable
+   * RJ45 connector
+   * RJ45 crimping tool
+   * Cable stripper/cutter
+   * LAN cable tester
+
+2. Cut the cable
+
+   * Cut the CAT6 cable to the required length.
+   * Make a clean, straight cut.
+
+3. Strip the outer jacket
+
+   * Remove about 2–3 cm of the outer plastic jacket.
+   * Be careful not to damage the small wires inside.
+   * Remove the CAT6 separator/spline if present. ([PSSCIVE][2])
+
+4. Separate and straighten the wires
+
+   * Carefully separate the four twisted pairs.
+   * Untwist only as much as necessary.
+   * Straighten all 8 wires with your fingers.
+
+5. Arrange the wires using T568B
+
+   Looking at the RJ45 plug with the contacts facing you, arrange the wires from pin 1 to pin 8 as:
+
+   ```text
+   Pin   Wire Color
+   ---   ----------------
+    1    White/Orange
+    2    Orange
+    3    White/Green
+    4    Blue
+    5    White/Blue
+    6    Green
+    7    White/Brown
+    8    Brown
+   ```
+
+   This is the T568B sequence shown in the tutorial. ([YouTube][1])
+
+6. Trim the wires
+
+   * Hold all 8 wires tightly together in the correct order.
+   * Cut the ends straight and evenly.
+   * Keep the exposed untwisted section as short as practical for CAT6 performance. ([WiFi Speed][3])
+
+7. Insert the wires into the RJ45 connector
+
+   * Hold the wires in their correct order.
+   * Push all 8 wires completely into the RJ45 plug.
+   * Check through the transparent connector that every wire reaches the front.
+   * Make sure some of the outer cable jacket enters the connector for proper strain relief. ([DLAY Template Project][4])
+
+8. Crimp the connector
+
+   * Place the RJ45 plug into the correct slot of the crimping tool.
+   * Squeeze the handles firmly until the crimp is complete.
+   * The metal contacts should press into the individual wires and secure the cable jacket. ([WiFi Speed][3])
+
+9. Inspect the connection
+
+   * Check that the wire colors are still in the correct order.
+   * Make sure all 8 wires are fully seated.
+   * Check that the connector is firmly attached to the cable.
+
+10. Test the cable
+
+* Connect both ends to a LAN cable tester.
+* A correctly terminated straight-through cable should show the eight connections in the expected 1-to-8 sequence.
+* If a pin is missing or appears in the wrong position, cut off the connector and terminate it again. ([surveilforge.com][5])
+
