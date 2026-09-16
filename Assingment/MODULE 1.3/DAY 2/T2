@@ -1,0 +1,21 @@
+ROUTER VS SWITCH
+
++----------------------+------------------------------+------------------------------+
+| FEATURE              | ROUTER                       | SWITCH                      |
++----------------------+------------------------------+------------------------------+
+| 1. MAIN FUNCTION     | Connects different networks  | Connects devices within the  |
+|                      | and forwards data between    | same local network (LAN).    |
+|                      | them.                        |                              |
++----------------------+------------------------------+------------------------------+
+| 2. ADDRESS USED      | Uses IP addresses to decide  | Uses MAC addresses to        |
+|                      | where to send packets.       | forward data to the correct  |
+|                      |                              | device.                      |
++----------------------+------------------------------+------------------------------+
+| 3. NETWORK TRAFFIC   | Routes traffic between       | Forwards traffic between     |
+|                      | different networks, such as  | devices on the same LAN,     |
+|                      | a home LAN and the Internet. | usually to the required port.|
++----------------------+------------------------------+------------------------------+
+
+KEY POINT:
+Router = Uses IP addresses + Connects different networks
+Switch = Uses MAC addresses + Connects devices in one LAN
