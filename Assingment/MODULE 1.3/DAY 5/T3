@@ -1,1 +1,2 @@
-Ping request could not find host www.google.com. Please check the name and try again.
+"""Ping request could not find host www.google.com. Please check the name and try again."""
+After disconnecting one device from the Wi-Fi and trying to ping www.google.com again, I received the error: “Ping request could not find host www.google.com. Please check the name and try again.” This suggests that DNS resolution was not working at the time of the test.
