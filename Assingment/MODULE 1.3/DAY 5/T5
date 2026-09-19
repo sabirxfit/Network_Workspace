@@ -1,0 +1,93 @@
+1. NETWORK SETUP
+
+First, the laptop was connected to the home Wi-Fi network. After connecting,
+the network configuration was checked to confirm that the laptop had received
+a valid IP address.
+
+The laptop was assigned the IP address 192.168.1.69, and the network
+gateway/router was 192.168.1.254.
+
+The arp -a command was then used to view devices that the laptop could
+identify on the local network. The command displayed IP addresses along
+with their corresponding physical (MAC) addresses.
+
+Example output:
+
+Interface: 192.168.1.69 --- 0xb
+
+Internet Address      Physical Address      Type
+192.168.1.254         80-ae-3c-4c-5d-xx     dynamic
+
+This confirmed that the laptop could identify the local router on the
+Wi-Fi network.
+
+
+2. TESTING CONNECTIVITY USING PING
+
+The ping command was used to test network connectivity. First, the local
+gateway was tested:
+
+ping 192.168.1.254
+
+This test checks whether the laptop can communicate with the Wi-Fi router.
+A successful response would normally show replies containing the time
+taken and TTL value.
+
+The internet connection was also tested using:
+
+ping www.google.com
+
+During testing, an issue was observed. The following message was received:
+
+Ping request could not find host www.google.com.
+Please check the name and try again.
+
+This indicates that the computer could not resolve www.google.com to an
+IP address. This is generally related to DNS name resolution, rather than
+necessarily meaning that the Wi-Fi connection itself is disconnected.
+
+
+3. TESTING THE NETWORK PATH USING TRACEROUTE
+
+The Windows tracert command was used to examine the path taken by network
+packets:
+
+tracert www.google.com
+
+Traceroute normally displays the different network hops between the laptop
+and the destination. Each hop represents a router or other network device
+through which the packet passes.
+
+If the hostname cannot be resolved, tracert may also fail to start the
+trace for the same DNS-related reason. An IP address can be used instead
+to test the route without relying on DNS name resolution.
+
+
+4. RESULTS AND ISSUES OBSERVED
+
+The laptop was successfully connected to the local Wi-Fi network and had
+the IP address 192.168.1.69. The router at 192.168.1.254 was visible in
+the ARP table, showing that local network communication was established.
+
+The main issue observed was the inability to resolve www.google.com.
+
+The error was:
+
+Ping request could not find host www.google.com.
+
+This suggests a DNS resolution problem. Possible causes include incorrect
+DNS settings, a temporary DNS service problem, or an issue with the
+internet connection.
+
+
+CONCLUSION
+
+The network setup was completed successfully at the local level. The
+laptop received a valid private IP address and identified the network
+gateway. Connectivity was tested using ping, while tracert was used to
+examine the network path.
+
+The main problem encountered was DNS name resolution for www.google.com.
+Further testing with the router IP address or a known public IP address
+would help determine whether the problem was specifically with DNS or
+with the wider internet connection.
