@@ -1,0 +1,8 @@
+IP Address        Physical Address       Device / Gadget
+----------------------------------------------------------------
+192.168.1.254     80-AE-3C-4C-5D-50      Router / Gateway
+224.0.0.22        01-00-5E-00-00-16      Multicast address
+224.0.0.251       01-00-5E-00-00-FB      Multicast (mDNS)
+224.0.0.252       01-00-5E-00-00-FC      Multicast (LLMNR)
+239.255.255.250   01-00-5E-7F-FF-FA      Multicast (SSDP)
+255.255.255.255   FF-FF-FF-FF-FF-FF      Broadcast address
