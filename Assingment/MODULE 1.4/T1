@@ -1,0 +1,9 @@
+
+1. Computer will not power on:
+Measure the desktop power supply's DC output voltages to check for expected power, without opening the power supply itself.
+
+2. Smartphone will not charge:
+Check an unplugged charging cable for continuity to identify broken wires or intermittent connections.
+
+3. Smartphone shuts down unexpectedly:
+Measure the battery's DC voltage to check for unusually low voltage, taking care not to short its terminals.
