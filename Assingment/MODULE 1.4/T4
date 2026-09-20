@@ -1,0 +1,12 @@
++----------------------+-----------------------------------------------+--------------------------------------------------------------+
+| TOOL                 | WHAT IT CHECKS                                | EXAMPLE PROBLEM DETECTED                                     |
++----------------------+-----------------------------------------------+--------------------------------------------------------------+
+| Multimeter           | Voltage, current, resistance and other        | Failed power supply delivering insufficient voltage          |
+|                      | electrical properties                         | to the motherboard.                                          |
++----------------------+-----------------------------------------------+--------------------------------------------------------------+
+| POST Card            | System boot sequence and hardware             | Error code indicating a problem with the CPU or RAM          |
+|                      | initialization errors                         | during startup.                                              |
++----------------------+-----------------------------------------------+--------------------------------------------------------------+
+| Software Diagnostics | Operating system health, driver issues,       | Hard drive failing SMART self-test or graphics card          |
+|                      | and component performance                     | driver crashing repeatedly.                                  |
++----------------------+-----------------------------------------------+--------------------------------------------------------------+
