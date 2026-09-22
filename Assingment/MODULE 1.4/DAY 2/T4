@@ -1,0 +1,40 @@
+1. POWER DOWN AND UNPLUG
+
+   Make sure the PC is completely powered off and unplugged from the wall outlet.
+
+2. LOCATE THE ATX CONNECTOR
+
+   Find the ATX power connector that supplies power to the motherboard. It is usually a large 24-pin connector.
+
+3. DISCONNECT THE CONNECTOR
+
+   Carefully disconnect the ATX connector from the motherboard.
+
+4. SET THE MULTIMETER
+
+   Turn on the multimeter and set it to measure DC voltage. This is usually marked as VDC or with a straight line symbol.
+
+5. IDENTIFY THE WIRES
+
+   Locate the yellow wire (12V) and a black wire (ground) in the ATX connector.
+
+6. PROBE THE WIRES
+
+   Place the black probe on the black wire (ground) and the red probe on the yellow wire (12V).
+
+7. READ THE VOLTAGE
+
+   Observe the voltage reading displayed on the multimeter and write it down.
+
+RESULT:
+
+If the voltage is below 11.5V, this could indicate a failing power supply (PSU) that may not be providing sufficient voltage to the components.
+
+POSSIBLE CAUSES:
+
+- Overloaded power supply
+- Loose or damaged wiring
+- Aged or faulty components inside the PSU
+- Failing power supply
+
+These problems can cause random shutdowns or instability of the PC.
