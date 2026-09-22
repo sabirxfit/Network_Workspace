@@ -1,0 +1,26 @@
+5 COMMON BIOS OR POST ERROR MESSAGES
+
+1. NO BOOT DEVICE FOUND
+
+   Issue:
+   The BIOS cannot locate a valid operating system drive. This may be caused by a disconnected or failing HDD/SSD or an incorrect boot order in the BIOS settings.
+
+2. CMOS CHECKSUM ERROR
+
+   Issue:
+   This may indicate a failing CMOS battery or corrupted BIOS settings, causing the system to revert to default settings.
+
+3. MEMORY TEST FAILED
+
+   Issue:
+   This indicates a possible RAM problem, such as faulty memory modules, improper seating, or compatibility issues with the motherboard.
+
+4. CPU FAN ERROR
+
+   Issue:
+   The system has detected a problem with the CPU fan. Possible causes include a loose connection, a failing fan, or incorrect BIOS settings.
+
+5. KEYBOARD ERROR
+
+   Issue:
+   This usually indicates a problem with the keyboard connection. Possible causes include a loose connection, a faulty keyboard, or disabled USB legacy support in the BIOS.
