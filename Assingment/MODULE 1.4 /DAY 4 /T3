@@ -1,0 +1,38 @@
+When simulating a storage issue by unplugging and replugging a SATA or NVMe drive (SSD/HDD) on a test system, you might observe the following error messages and BIOS indicators:
+
+Before Reconnecting (Drive Unplugged):
+
+1. BIOS/UEFI Indicators:
+
+   * The drive may disappear from the boot priority list, showing messages like `SATA Port 1: [Not Detected]` or `NVMe M.2: Empty`.
+   * If the system attempts to boot, you might see messages such as `No bootable device found` or `Reboot and Select proper Boot device.`
+
+2. Operating System Behavior:
+
+   * If the drive was in use, the OS might freeze or display a Blue Screen of Death (BSOD) with error codes like `INACCESSIBLE_BOOT_DEVICE` or `CRITICAL_PROCESS_DIED` on Windows, or I/O errors in Linux.
+
+ After Reconnecting (Drive Replugged):
+
+1. BIOS/UEFI Indicators:
+
+   * The drive should reappear in the BIOS/UEFI setup, displaying its model name and capacity.
+   * If it was the boot drive, the system may successfully boot after re-establishing the correct boot order.
+
+2. Operating System Behavior:
+
+   * On Windows, you might see a notification indicating that new hardware has been detected, and the drive will appear in File Explorer.
+   * On Linux, the device will be rediscovered, and logs will show successful partition mounting.
+
+### Summary of Expected Messages:
+
+Before Reconnecting:
+
+* `No boot device found`
+* `Drive Not Detected`
+* BSOD errors
+
+After Reconnecting:
+
+* Drive detected in BIOS
+* Successful boot
+* Normal OS operation
