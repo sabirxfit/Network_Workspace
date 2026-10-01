@@ -1,0 +1,50 @@
+Here’s a step-by-step troubleshooting flow to resolve the issue of a blank monitor while the CPU seems to be running:
+
+1. Check Power and Connections
+
+   * Ensure the monitor is plugged into a working power outlet and the power cable is securely connected.
+   * Look for a power indicator light on the monitor. If it’s off, try a different outlet.
+
+2. Inspect Video Cable Connections
+
+   * Check that the video cable (HDMI, DisplayPort, VGA, or DVI) is firmly connected to both the monitor and the CPU.
+   * If you have a spare cable, try swapping it out to rule out a faulty cable.
+
+3. Verify Monitor Input Source
+
+   * Use the monitor’s on-screen menu to cycle through input sources (e.g., HDMI 1, DisplayPort) to ensure it matches the cable connected to the PC.
+
+4. Test with Another Device
+
+   * Connect the monitor to a different computer or laptop to see if it works.
+   * Alternatively, connect a different monitor to the original CPU to determine where the issue lies.
+
+5. Check Graphics Card Placement (For Desktop PCs)
+
+   * Ensure the monitor cable is plugged into the dedicated graphics card rather than the motherboard’s integrated graphics port.
+
+6. Adjust Display Settings
+
+   * On Windows, press `Win + P` and select the appropriate display option (e.g., PC screen only).
+   * Check display resolution settings to ensure they are compatible with the monitor.
+
+7. Perform a Hard Reset
+
+   * Turn off the CPU and unplug both the monitor and CPU power cords for about 60 seconds.
+   * Plug everything back in and turn the system on.
+
+8. Check for Hardware Issues
+
+   * If the issue persists, inspect the graphics card and RAM for proper seating.
+   * Listen for any beeps during startup that may indicate hardware errors.
+
+9. Update or Reinstall Graphics Drivers
+
+   * Boot into Safe Mode if necessary and uninstall the current graphics driver.
+   * Download and install the latest driver from the manufacturer’s website.
+
+10. Consult for Further Assistance
+
+* If all steps fail, consider contacting technical support or a technician for further evaluation of potential hardware failures.
+
+
