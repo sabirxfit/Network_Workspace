@@ -1,0 +1,32 @@
+Troubleshooting Checklist for Diagnosing a Faulty GPU in a Gaming PC
+
+1. Identify Symptoms
+
+   * Look for display issues such as black screens, flickering, artifacts (strange colors or lines), or crashes during gaming.
+   * Note if the problem occurs during startup, idle, or under load.
+
+2. Check Physical Connections
+
+   * Ensure the GPU is securely seated in the PCIe slot and that all power cables (6-pin, 8-pin) are connected properly.
+   * Verify that the monitor cable (HDMI or DisplayPort) is plugged into the GPU, not the motherboard.
+
+3. Test Display Cables and Monitor
+
+   * Swap out the HDMI or DisplayPort cable with a known working one.
+   * Connect the PC to a different monitor or TV to rule out display issues.
+
+4. Check and Update Drivers
+
+   * Update the GPU drivers from the manufacturer's website (NVIDIA, AMD, Intel).
+   * If issues started after an update, consider rolling back to a previous driver version.
+
+5. Run Diagnostic Tools
+
+   * Use stress test software like FurMark or 3DMark to check for stability under load.
+   * Monitor temperatures using software like MSI Afterburner to ensure the GPU is not overheating.
+
+6. Confirm the Fix
+
+   * After making adjustments or replacements, test the GPU by running demanding games or benchmarks for stability.
+   * Check system logs for any error messages related to the GPU in the Event Viewer.
+
