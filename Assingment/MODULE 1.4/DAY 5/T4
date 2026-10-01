@@ -1,0 +1,23 @@
+1. Faulty or Blocked Fans
+
+   * How to check:
+
+     * Open the case and visually inspect all fans (CPU, GPU, case fans) for dust or damage.
+     * Spin the fan blades by hand to ensure they move smoothly.
+     * Use software like HWMonitor to check fan speeds under load. If a fan isn’t spinning or is noisy, it may need to be replaced.
+
+2. Excessive Dust Buildup
+
+   * How to check:
+
+     * Power down and unplug the system, then open the case.
+     * Inspect for dust accumulation on heatsinks, fans, and vents.
+     * Use compressed air to blow out dust. After cleaning, monitor temperatures again to see if there’s an improvement.
+
+3. Degraded or Missing Thermal Paste
+
+   * How to check:
+
+     * Remove the CPU cooler and inspect the thermal paste. If it’s dry or uneven, it needs to be replaced.
+     * Clean both surfaces with isopropyl alcohol and apply a new layer of thermal paste.
+     * Monitor temperatures during use to ensure stability.
