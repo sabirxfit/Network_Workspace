@@ -1,0 +1,17 @@
+Given a scenario where a PC randomly restarts, the first component to check is the RAM (Random Access Memory). This is because faulty or unstable RAM is a common cause of unexpected system reboots, often leading to symptoms like blue screens or crashes. Unlike GPU or storage issues, which typically present more consistent errors, RAM problems can cause sudden and unpredictable reboots.
+
+Diagnostic Steps for RAM:
+Visual Inspection:
+Power down the PC, unplug it, and open the case. Check for any visible signs of damage or dust in the RAM slots.
+Reseat the RAM:
+Remove the RAM sticks from their slots and firmly reinsert them, ensuring they are securely locked in place.
+Run Memory Tests:
+Use Windows Memory Diagnostic or MemTest86 to check for errors. For MemTest86, create a bootable USB and run it for several passes (ideally overnight).
+Test Individual Sticks:
+If issues persist, test each RAM stick individually in the primary slot to isolate any faulty modules.
+Check BIOS Settings:
+Ensure that the RAM is running at the correct speed and timings. Disable any aggressive XMP profiles temporarily to rule out instability from overclocking.
+Monitor for Overheating:
+Ensure adequate airflow around the RAM modules, as overheating can contribute to instability.
+
+If the RAM checks out but the problem continues, further diagnostics should be conducted on the GPU and storage components.
