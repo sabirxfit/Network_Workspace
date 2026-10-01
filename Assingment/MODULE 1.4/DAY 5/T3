@@ -1,0 +1,26 @@
+1. Check the Mouse:
+
+   * Battery: Ensure the mouse has fresh batteries or is fully charged if rechargeable.
+   * Power: Make sure the mouse is turned on and the optical lights are functioning.
+   * Test on Another Device: Connect the mouse to a different computer to see if it works there. If it does, the mouse is likely fine.
+
+2. Test the USB Port:
+
+   * Different Port: Plug the mouse's USB receiver into another USB port on your computer.
+   * Other Devices: Check if other USB devices work in the same port to rule out a faulty port.
+
+3. Check System Settings:
+
+   * Device Manager (Windows): Open Device Manager and look under 'Mice and other pointing devices' for any warning icons. If present, update or reinstall the driver.
+   * Power Management: Ensure that USB power-saving settings are not disabling the mouse.
+   * Bluetooth Settings: If it's a Bluetooth mouse, check that it is paired correctly in the Bluetooth settings.
+
+4. Restart the Computer:
+
+   * Sometimes, a simple restart can resolve temporary glitches.
+
+5. Check for Interference:
+
+   * Ensure there are no other wireless devices causing interference, and try moving the mouse closer to the receiver.
+
+By systematically following these steps, you can identify whether the issue lies with the mouse, the USB port, or the system settings.
