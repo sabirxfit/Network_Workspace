@@ -1,0 +1,11 @@
+For an AMI BIOS, a POST beep code of three short beeps in a repeating pattern typically indicates a memory (RAM) error. This suggests that the BIOS is unable to initialize or access the RAM properly, often due to a failure in the first 64KB of system memory.
+
+Two Troubleshooting Steps:
+1. Reseat the RAM:
+   - Power off the PC and unplug it.
+   - Open the case and carefully remove each RAM module. Clean the contacts gently and reinsert them firmly into their slots, ensuring they click securely into place.
+   - If multiple RAM sticks are present, test each one individually in the primary slot to identify any faulty module.
+
+2. Clear the CMOS:
+   - Reset the BIOS settings by removing the CMOS battery for a few minutes or using the CMOS jumper on the motherboard.
+   - This can resolve any configuration issues that might be causing the memory error. After resetting, power the system back on to see if the issue persists.
