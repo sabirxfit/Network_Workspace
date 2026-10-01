@@ -1,0 +1,32 @@
+The error message "CMOS checksum error – Defaults loaded" indicates that the system's BIOS detected an issue with the CMOS (Complementary Metal-Oxide-Semiconductor) data. This typically happens when the CMOS settings are corrupted or invalid, causing the BIOS to load default settings instead.
+
+This can occur for several reasons:
+
+* A failing CMOS battery: The battery that powers the CMOS chip may be dying or dead, leading to loss of settings.
+* Improper shutdown or power failure: Sudden power loss can corrupt CMOS data.
+* Manual changes to BIOS settings: Incorrect configuration might cause a checksum mismatch.
+
+
+1. Check the CMOS battery:
+
+   * Power off the system and unplug it from the power source.
+   * Open the case and locate the CMOS battery (usually a small, round, coin-shaped battery).
+   * Remove the battery and wait for a few minutes, then reinsert it.
+   * If the battery is old or swollen, replace it with a new one (typically a CR2032).
+
+2. Reset BIOS settings:
+
+   * After replacing the battery, restart the system.
+   * Enter the BIOS setup (usually by pressing Del, F2, F10, or Esc during boot).
+   * Navigate to the "Load Default Settings" or "Restore Factory Settings" option and apply it.
+   * Save the changes and exit.
+
+3. Verify system time and date:
+
+   * After resetting, ensure the system clock is set correctly, as incorrect time/date can also trigger this error.
+
+4. Check for hardware issues:
+
+   * If the problem persists, there may be an issue with the motherboard or other hardware components. Consider testing or replacing the motherboard if necessary.
+
+By addressing the CMOS battery and resetting the BIOS settings, you should be able to resolve the "CMOS checksum error – Defaults loaded" message.
